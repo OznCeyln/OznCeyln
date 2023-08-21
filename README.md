@@ -22,3 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oznceyln&show_icons=true&locale=en" alt="oznceyln" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oznceyln&" alt="oznceyln" /></p>
+
+
+
+![snake gif](https://github.com/OznCeyln/OznCeyln/blob/output/github-contribution-grid-snake.gif)
